@@ -233,8 +233,6 @@ for i in range(7):
 
 #object7
 
-
-
 balloon = turtle.Turtle()
 balloon.shape("turtle")
 balloon.speed(5)
